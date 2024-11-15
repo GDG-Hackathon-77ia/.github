@@ -8,7 +8,7 @@
 사용자는 반려 친구인 '단이'와 함께 대화하며 현재 심리 상태를 확인할 수 있습니다.
 
 // TODO 유튜브 링크 수정하기
-Youtube : [DanDan - 2024 VISION CHALLENGE THON]()</br>
+Youtube : [DanDan - 2024 VISION CHALLENGE THON](https://youtu.be/Wyp7ycKE7EM)</br>
 
 ---
 
