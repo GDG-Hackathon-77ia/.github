@@ -8,6 +8,7 @@
 사용자는 반려 친구인 '단이'와 함께 대화하며 현재 심리 상태를 확인할 수 있습니다.
 
 # [www.dandani.site](http://www.dandani.site)
+<img src="https://github.com/user-attachments/assets/387e5f9b-2c04-4661-a66b-5b435ab460a2" width="400"/>
 
 ---
 
@@ -19,7 +20,6 @@
 4. [Team Info](#Team-Info)
 6. [Closing](#Closing)
 
----
 
 # Features
 
